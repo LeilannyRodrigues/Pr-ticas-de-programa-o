@@ -1,0 +1,40 @@
+body{
+    background-color: plum;
+    color:rgb(17, 45, 103)
+}
+
+h1, h2{
+    color:rgb(255, 0, 149)
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+P{
+    text-align: justify;
+    color:rgb(0, 42, 255)
+
+}
+header{
+    background-color: #cccccc;
+}
+
+header{
+    background-color: blueviolet;
+}
+
+main{
+    margin: auto 20%; 
+    background-color: rgb(164, 144, 184);
+}
+
+footer{
+    background-color: rgb(255, 119, 0);
+}
+
+.destaque{
+    background-color: aqua;
+    padding: 10px;
+    margin-bottom: 20px;
+}
